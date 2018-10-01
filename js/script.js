@@ -12,35 +12,35 @@ var quotes = [
     {
         quote: "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
         source: "Scott Adams",
-        citation: "\"The Dilbert Principle\" by Scott Adams",
-        year: "1996",
+        citation: "\"The Dilbert Principle\", by Scott Adams",
+        year: "Unknown",
         tag: "Art"
     },
     {
         quote: "I would rather walk with a friend in the dark than walk alone in the light.",
         source: "Helen Keller",
-        citation: "\"Helen and Teacher: The Story of Helen Keller and Anne Sullivan Macy\” by Joseph P. Lash",
+        citation: "\"Helen and Teacher: The Story of Helen Keller and Anne Sullivan Macy\", by Joseph P. Lash",
         year: "1920's",
         tag: "Friendship"
     },
     {
         quote: "I am convinced that life is 10% what happens to me and 90% how I react to it.",
         source: "Charles Swindoll",
-        citation: "\"Attitudes\" by Charles R. Swindoll",
+        citation: "\"Attitudes\", by Charles R. Swindoll",
         year: "1995",
         tag: "Life"
     },
     {
         quote: "Let the beauty of what you love be what you do.",
         source: "Mowlānā Jalāluddīn Rūmī",
-        citation: "\"Path for Greatness : Spiritualty at Work\" by Linda J. Ferguson",
+        citation: "\"Path for Greatness : Spiritualty at Work\", by Linda J. Ferguson",
         year: "Unknown",
         tag: "Love"
     },
     {
         quote: "With the new day comes new strength and new thoughts.",
         source: "Eleanor Roosevelt",
-        citation: "\"My Day by Eleanor Roosevelt, January 8, 1936\" by Eleanor Roosevelt" ,
+        citation: "\"My Day by Eleanor Roosevelt, January 8, 1936\", by Eleanor Roosevelt" ,
         year: "1936",
         tag: "Motivational"
     },
@@ -54,7 +54,7 @@ var quotes = [
     {
         quote: "Being entirely honest with oneself is a good exercise.",
         source: "Sigmund Freud",
-        citation: "Letter to Wilhelm Fliess by Sigmund Freud",
+        citation: "Letter to Wilhelm Fliess, by Sigmund Freud",
         year: "1897",
         tag: "Wisdom"
     }
